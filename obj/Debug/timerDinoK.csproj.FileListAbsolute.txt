@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\timerDinoK\obj\Debug\timerDinoK.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\timerDinoK\obj\Debug\timerDinoK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\timerDinoK\obj\Debug\timerDinoK.Form1.resources
+C:\Users\ucenik\source\repos\timerDinoK\obj\Debug\timerDinoK.Properties.Resources.resources
+C:\Users\ucenik\source\repos\timerDinoK\obj\Debug\timerDinoK.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\timerDinoK\obj\Debug\timerDinoK.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\timerDinoK\bin\Debug\timerDinoK.exe.config
+C:\Users\ucenik\source\repos\timerDinoK\bin\Debug\timerDinoK.exe
+C:\Users\ucenik\source\repos\timerDinoK\bin\Debug\timerDinoK.pdb
+C:\Users\ucenik\source\repos\timerDinoK\obj\Debug\timerDinoK.exe
+C:\Users\ucenik\source\repos\timerDinoK\obj\Debug\timerDinoK.pdb
